@@ -23,3 +23,8 @@ prometheus-data/
 loki-data/
 
 # Evidence screenshots can be kept manually
+# Maven build output
+**/target/
+
+# Vim temporary files
+*.swp

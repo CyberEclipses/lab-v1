@@ -1,4 +1,4 @@
-lab-v1-devops-platform/
+lab-v1/
 │
 ├── compose/
 │ ├── docker-compose.yml
